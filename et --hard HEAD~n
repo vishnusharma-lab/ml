@@ -1,0 +1,12 @@
+[33m48b23ebe[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Track large files using Git LFS
+[33m935985fb[m Track all changes
+[33m6e85f128[m Track large files with Git LFS
+[33mabb3c42a[m Track large files using Git LFS
+[33mdf23ae9d[m model trainer
+[33mb6d38afc[m data_transformation
+[33m21980226[m data_ingestion
+[33m71c55814[m eda and models
+[33mb07a0f24[m logger and exception
+[33mf6752861[m setup
+[33m155490fd[m Create .gitignore
+[33m67cd8c2c[m first commmit
